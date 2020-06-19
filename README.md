@@ -66,9 +66,11 @@ The Hough transform is a technique in which features are extracted that is used 
 processing. Previously the classical Hough Transform worked on the identification of lines in the image but later it has been
 extended to identifying positions of shapes like circles and ellipses. In automated analysis of digital images, there was a problem of detecting simple geometric shapes such as straight lines, circle, etc. So in the pre-processing stage edge detector has been used to obtain points on the image that lie on the desired curve in image space. But due to some imperfections in image data or in the edge detector, some pixels were missing on the desired curve as well as spacial deviation between the geometric shape used and the noisy edge pixels obtained by the edge detector. So to refine this problem Hough transform is used. In this the grouping of edge pixels into an object class is performed by choosing appropriate pixels from the set of parametric image objects.
 
-Input Image                               Finding lines using Hough Transform
-![inputhou](inputhou.png)                  ![outputhou](outputhou.png)                                      
+
+Input Image                         Finding lines using Hough Transform
+![inputhou](inputhou.png)               ![outputhou](outputhou.png)                                      
   
+
 
 The simplest case of Hough transform is finding straight lines that are hidden in large amounts of image data. For
 detecting lines in images, the image is first converted into binary image using some form of thresholding and then the
