@@ -6,7 +6,7 @@ In this,all the registered participants would get an exquisite opportunity to in
 
 ![sci](sci.jpeg)
 
-# Lane-Detection-using-OpenCV
+# Lane-Detection-using-OpenCV.
 
 # LANE DETECTION 
 
