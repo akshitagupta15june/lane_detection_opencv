@@ -10,7 +10,7 @@ In this,all the registered participants would get an exquisite opportunity to in
 
 # Lane-Detection-using-OpenCV.
 
-To The lane detection has proved to be an efficient technique to prevent accidents in Intelligent Transportation Systems.The review on lane detection has shown that the most of the researchers has neglected the problem of the fog and noise in images. Thus noise and fog may reduce the accuracy of the existing systems. 
+The lane detection has proved to be an efficient technique to prevent accidents in Intelligent Transportation Systems.The review on lane detection has shown that the most of the researchers has neglected the problem of the fog and noise in images. Thus noise and fog may reduce the accuracy of the existing systems. 
 
 # LANE DETECTION 
 
