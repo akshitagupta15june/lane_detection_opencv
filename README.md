@@ -1,3 +1,11 @@
+
+![Issues](https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv)
+![Pull Requests](https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv)
+![Forks](https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv)
+![Stars](https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv)
+[![License](https://img.shields.io/github/license/akshitagupta15june/lane_detection_opencv)](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/LICENSE)
+
+
 # OPEN SOURCE CONTEST STUDENT CODE IN 2020
 
 Student Code-in is a global program that helps students grow with “OPEN SOURCE”. 
