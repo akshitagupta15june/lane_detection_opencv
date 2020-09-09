@@ -5,8 +5,9 @@
 ![Stars](https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv)
 [![License](https://img.shields.io/github/license/akshitagupta15june/lane_detection_opencv)](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/LICENSE)
 
+# ORGANIZATIONS IN WHICH THIS PROJECT WAS A PART OF:
 
-# OPEN SOURCE CONTEST STUDENT CODE IN 2020
+## OPEN SOURCE CONTEST STUDENT CODE IN 2020
 
 Student Code-in is a global program that helps students grow with “OPEN SOURCE”. 
 It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. 
