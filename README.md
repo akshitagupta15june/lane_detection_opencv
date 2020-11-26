@@ -5,6 +5,8 @@
 ![Stars](https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv)
 [![License](https://img.shields.io/github/license/akshitagupta15june/lane_detection_opencv)](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/LICENSE)
 
+## Join official discord channel for discussion https://discord.gg/Qr8D7thZ 
+
 # ORGANIZATIONS IN WHICH THIS PROJECT WAS A PART OF:
 
 ## OPEN SOURCE CONTEST STUDENT CODE IN 2020
