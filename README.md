@@ -22,7 +22,8 @@ It is a 2 months long Open-Source initiative which provides you the best platfor
 In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
 <img src="https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/sci.jpeg" width="190px" height="160px">
 
-<a href="https://njackwinterofcode.github.io/"><img align="right" width="500" height="200" src="images/nwoc-logo.png"></a>
+<a href="https://njackwinterofcode.github.io/"><img align="right" width="500" height="200" src="Images/nwoc-logo.png"></a>
+
 ## NJACK Winter of Code 2020
 
 NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna) that helps students understand the paradigm of Open Source contribution and gives them real world software development experience.
