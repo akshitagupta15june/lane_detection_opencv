@@ -1,3 +1,6 @@
+<div align="center">
+
+<h1>Lane Detection Opencv</h1>
 
 ![Issues](https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv)
 ![Pull Requests](https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv)
@@ -5,7 +8,10 @@
 ![Stars](https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv)
 [![License](https://img.shields.io/github/license/akshitagupta15june/lane_detection_opencv)](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/LICENSE)
 
-## Join official discord channel for discussion https://discord.gg/Qr8D7thZ 
+<h3>Join official <a href="https://discord.gg/Qr8D7thZ">Discord Channel</a> for discussion.</h3>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+</div>
 
 # ORGANIZATIONS IN WHICH THIS PROJECT WAS A PART OF:
 
@@ -16,7 +22,10 @@ It is a 2 months long Open-Source initiative which provides you the best platfor
 In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
 <img src="https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/sci.jpeg" width="190px" height="160px">
 
+<a href="https://njackwinterofcode.github.io/"><img align="right" width="500" height="200" src="images/nwoc-logo.png"></a>
+## NJACK Winter of Code 2020
 
+NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna) that helps students understand the paradigm of Open Source contribution and gives them real world software development experience.
 
 # Working Video (Click on picture below)
 
