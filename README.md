@@ -31,6 +31,8 @@ NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science
 [![Everything Is AWESOME](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/lanewith.png)](
 https://www.youtube.com/watch?v=eSXXDvqxDg4 "Everything Is AWESOME")
 
+### The main emphasis of this project is to find the further ways which can be used further to improve the result of lane detection algorithms.
+
 # Lane-Detection-using-OpenCV.
 
 The lane detection has proved to be an efficient technique to prevent accidents in Intelligent Transportation Systems. The review on lane detection has shown that most of the researchers have neglected the problem of the fog and noise in images. Thus noise and fog may reduce the accuracy of the existing systems.
