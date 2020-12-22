@@ -17,8 +17,10 @@
 
 ## OPEN SOURCE CONTEST STUDENT CODE IN 2020
 
-Student Code-in is a global program that helps students grow with “OPEN SOURCE”.In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.<a href="https://scodein.tech/"><img align="right" width="300" height="200" src="https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/sci.jpeg"></a>
+Student Code-in is a global program that helps students grow with “OPEN SOURCE”.In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.<a href="https://scodein.tech/"><img align="right" width="150" height="150" src="https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/sci.jpeg"></a>
 
+
+</br>
 
 
 ## NJACK Winter of Code 2020
