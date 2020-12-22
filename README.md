@@ -29,9 +29,9 @@ Student Code-in is a global program that helps students grow with “OPEN SOURCE
 
 NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna) that helps students understand the paradigm of Open Source contribution and gives them real world software development experience.
 
-# Working Video (Click on picture below)
+# Working Video (click on gif to watch complete video.)
 
-[![Everything Is AWESOME](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/lanewith.png)](
+[![Everything Is AWESOME](https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/Images/hail.gif)](
 https://www.youtube.com/watch?v=eSXXDvqxDg4 "Everything Is AWESOME")
 
 ### The main emphasis of this project is to find the further ways which can be used further to improve the result of lane detection algorithms.
