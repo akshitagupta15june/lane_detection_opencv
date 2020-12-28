@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+### Environment:
+<!-- Please provide the following environment details --> 
+* python version
+* pip version
+* OS details
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is.
 
