@@ -2,7 +2,7 @@
 # Dependencies
   - `pip install tensorflow`
   - `pip install numpy`
-  -`pip install cv2`
+  - `pip install cv2`
   - `pip install scipy==1.1.0`
   - `pip install moviepy`
   - `pip install IPython`
