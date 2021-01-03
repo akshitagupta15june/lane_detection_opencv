@@ -1,5 +1,15 @@
 # Lane Detection using CNN model.
-# quick start
+# Dependencies
+  - `pip install tensorflow`
+  - `pip install numpy`
+  -`pip install cv2`
+  - `pip install scipy==1.1.0`
+  - `pip install moviepy`
+  - `pip install IPython`
+  - `pip install keras`
+  - `pip install pickle`
+  - `pip install matplotlib`
+# Quick start
 - Clone this Repository.
 ` git clone https://github.com/akshitagupta15june/lane_detection_opencv.git`
 - Change Directory
