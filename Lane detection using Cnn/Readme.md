@@ -10,4 +10,4 @@
 # Screenshot
 | Original Image | Detected Image |
 | ------------- | ------------- |
-| ![Capture](img/Capture2.PNG)  | ![Capture1](img/Capture.PNG)  |
+| ![Capture](img/Capture1.PNG)  | ![Capture1](img/Capture.PNG)  |
