@@ -4,7 +4,7 @@ import numpy as np
 image=cv.imread('lane.jpeg')
 image=cv.cvtColor(image,cv.COLOR_BGR2RGB)
 
-print(image.shape)
+#print(image.shape)
 height=image.shape[0]
 width=image.shape[1]
 
