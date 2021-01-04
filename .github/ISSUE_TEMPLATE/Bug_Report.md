@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+### Environment:
+<!-- Please provide the following environment details --> 
+* python version
+* pip version
+* OS details
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
