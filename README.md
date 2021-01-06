@@ -91,9 +91,9 @@ To detect road markings and road boundaries various methodologies are used like 
 detection algorithm, bilateral filter. The main working of all these are as follows:
 
 
-# A. Hough Transform
+# A. Probabilistic Hough Transform
 
-The Hough transform is a technique in which features are extracted that is used in image analysis and digital image
+Hough transform is a technique in which features are extracted that is used in image analysis and digital image
 processing. Previously the classical Hough Transform worked on the identification of lines in the image but later it has been
 extended to identifying positions of shapes like circles and ellipses. In automated analysis of digital images, there was a problem of detecting simple geometric shapes such as straight lines, circle, etc. So in the pre-processing stage edge detector has been used to obtain points on the image that lie on the desired curve in image space. But due to some imperfections in image data or in the edge detector, some pixels were missing on the desired curve as well as spacial deviation between the geometric shape used and the noisy edge pixels obtained by the edge detector. So to refine this problem Hough transform is used. In this the grouping of edge pixels into an object class is performed by choosing appropriate pixels from the set of parametric image objects.
 
@@ -110,6 +110,14 @@ in Hough space gives the point density along a line in the data space.
 For each point in the Hough space, consider all the lines which go through that point at an actual discrete set of
 angles that are chosen on the priority basis. For each angle T, calculate the distance to the line through the point at that angle and discretize that distance using a priori chosen discretization, giving value d. Now make a corresponding discretization of the Hough space. This will result in a set of boxes in Hough space. These boxes are called the Hough accumulators. For each line it considers above, we increment a count (initialized at zero) in the Hough accumulator at point (d, T). After considering all the lines through all the points, a Hough accumulator with a high value will probably correspond to a line of points.
 
+>>Drawback of Hough Transform - Computing each line with two arguments takes a lot of time in computation. Hence this algorithm drastically increases the time compexity
+of our software.
+>>Solution - Use optimised version of Hough transform method calles "Probabilistic Hough Transform"
+
+We are using Probabilistic Hough Transform to compute the lines in the binary image. Its efficiency is based on the fact that it does not take all the points into consideration. Instead it takes only a random subset of points that is sufficient for line detection. This progressive method utilises two thresholding parameters
+that help in eliminating the unnecessary lines. The OpenCV python function has two new arguments - minLineLength and maxLineGap. All line segments shorter than minLineLength are rejected to avoid extra computation. The parameter maxLineGap is the maximum allowed gap between line segments to treat them as single line. The value of these parameters depends on our dataset and may vary for completely different locations. Currently the parameters are set at the value 40.
+
+ 
 # B. Edge Detection
 
 Edge detection works on the idea of the identification of points in the digital image at which the image brightness changes
