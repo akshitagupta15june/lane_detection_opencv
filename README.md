@@ -116,6 +116,7 @@ Solution - Use optimised version of Hough transform method called "Probabilistic
 
 We are using Probabilistic Hough Transform to compute the lines in the binary image. It is algorithm-wise exactly same as basic Hough transform. Its efficiency is based on the fact that it does not take all the points into consideration. Instead it takes only a random subset of points that is sufficient for line detection. This progressive method utilises two thresholding parameters that help in eliminating the unnecessary lines. The OpenCV python function has two new arguments - minLineLength and maxLineGap. All line segments shorter than minLineLength are rejected to avoid extra computation. The parameter maxLineGap is the maximum allowed gap between line segments to treat them as single line. The value of these parameters depends on our dataset and may vary for completely different locations. Currently the parameters are set at the value 40.
 
+Further analysis can be found at the official [documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html) 
  
 # B. Edge Detection
 
