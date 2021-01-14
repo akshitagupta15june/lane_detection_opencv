@@ -60,19 +60,16 @@ to different modes of transport and traffic management. This system enables vari
 safer, more coordinated, and smarter use of transport networks.These road accidents can be reduced with the help of road lanes or white markers that assist the driver to identify the road area and non-road area. A lane is a part of the road marked which can be used by a single line of vehicles as to control and guide drivers so that the traffic conflicts can be reduced.
 
 
-Technology Stack
+## Libraries & Tech Stacks used :
 
-OpenCV
+**NumPy:** It comes by default with anaconda
 
-Libraries required for this task:
-NumPy: It comes by default with anaconda
+**Matplotlib:** To install matplotlib, type – “pip install matplotlib” into your command line
 
-Matplotlib: To install matplotlib, type – “pip install matplotlib” into your command line
+**OpenCV:** It can be installed in two ways, using anaconda or using pip.
 
-OpenCV: It can be installed in two ways, using anaconda or using pip.
-
-To install using anaconda, type- “conda install -c conda-forge opencv”, or to install using pip, type-
-“pip install opencv-python” into your command line 
+To install it using **anaconda**, type- `conda install -c conda-forge opencv`, or to install using **pip**, type-
+`pip install opencv-python` into your command line .
 
 # Flowchart
 ![flow](flow.png)
