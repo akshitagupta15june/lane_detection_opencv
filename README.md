@@ -153,6 +153,20 @@ eliminated, regions was labeled and finally the lanes was detected. As the heigh
 respect to the road surface, the road portion of the image can be exclusively cropped by providing the coordinates, so that
 identifying the lanes became much more efficient.
 
+# Bird Eye View of Lane 
+
+
+[](Bird%20Eye%20View/Lane_Detection_Output.avi)
+<table>
+  <tr>
+    <td align="center">Lane detection (front-view) </td>
+     <td align="center">Bird Eye View (top-view)</td>
+  </tr>
+  <tr>
+    <td><img src='Bird%20Eye%20View/Lane_Detection_Output.gif' width=100%></td>
+    <td><img src='Bird%20Eye%20View/Bird_View_Output.gif' width=100%></td>
+  </tr>
+ </table>
 
 # 3. Conclusion
 
