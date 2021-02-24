@@ -13,21 +13,37 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 </div>
 
-# ORGANIZATIONS IN WHICH THIS PROJECT WAS A PART OF:
+## Open Source Events Project is associated with:
 
-## OPEN SOURCE CONTEST STUDENT CODE IN 2020
+<a href="https://scodein.tech/"><img align="right" src="sci.jpeg" width = "100" height = "80"></a><b>1.OPEN SOURCE CONTEST STUDENT CODE IN 2020</b>
 
-Student Code-in is a global program that helps students grow with “OPEN SOURCE”.In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.<a href="https://scodein.tech/"><img align="right" width="150" height="150" src="https://github.com/akshitagupta15june/lane_detection_opencv/blob/master/sci.jpeg"></a>
+- Student Code-in is a global program that helps students grow with “OPEN SOURCE”.In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
 
+<a href="https://njackwinterofcode.github.io/"><img align="right" src="Images/nwoc-logo.png" width = "110" height = "80"></a><b>2.NJACK Winter of Code 2020</b>
 
-</br>
+- NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna) that helps students understand the paradigm of Open Source contribution and gives them real world software development experience.
 
+<a href="https://swoc.tech/"><img align="right" src="Images/swoc-label.png" width = "100" height = "80"></a><b>3. Script Winter of Code</b>
 
-## NJACK Winter of Code 2020
+- Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time.
 
-<a href="https://njackwinterofcode.github.io/"><img align="right" width="500" height="200" src="Images/nwoc-logo.png"></a>
+## Quick Start
 
-NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna) that helps students understand the paradigm of Open Source contribution and gives them real world software development experience.
+- Fork this repository.
+- Clone this repository remotely.
+
+      git clone https://github.com/akshitagupta15june/lane_detection_opencv.git
+
+- Change Directory
+
+      cd .\lane_detection_opencv\
+
+- Run python file
+
+      python lanedetect_video_opencv.py
+      
+- Enter video path and click enter for lane detection in any video.
+
 
 # Working Video (click on gif to watch complete video.)
 
@@ -60,19 +76,20 @@ to different modes of transport and traffic management. This system enables vari
 safer, more coordinated, and smarter use of transport networks.These road accidents can be reduced with the help of road lanes or white markers that assist the driver to identify the road area and non-road area. A lane is a part of the road marked which can be used by a single line of vehicles as to control and guide drivers so that the traffic conflicts can be reduced.
 
 
-Technology Stack
+## Technology Stack
 
-OpenCV
+- OpenCV
 
-Libraries required for this task:
-NumPy: It comes by default with anaconda
+## Libraries required for this task:
 
-Matplotlib: To install matplotlib, type – “pip install matplotlib” into your command line
+1. NumPy: It comes by default with anaconda
 
-OpenCV: It can be installed in two ways, using anaconda or using pip.
+2. Matplotlib: To install matplotlib, type – “pip install matplotlib” into your command line
 
-To install using anaconda, type- “conda install -c conda-forge opencv”, or to install using pip, type-
-“pip install opencv-python” into your command line 
+3. OpenCV: It can be installed in two ways, using anaconda or using pip.
+
+To install using anaconda, type- `conda install -c conda-forge opencv`, or to install using pip, type-
+`pip install opencv-python` into your command line
 
 # Flowchart
 ![flow](flow.png)
@@ -177,8 +194,6 @@ prior methods to improve the results further. In near future we will propose a n
 performance of lane detection by using bilateral filter.
 
 ## Open for Pull requests
-
-
 
 ## Get Started with Open Source now
 
